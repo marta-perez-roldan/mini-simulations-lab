@@ -1,6 +1,6 @@
 # Mini Simulations Lab
 
-Pequeño laboratorio de simulaciones.
+Pequeño laboratorio de simulaciones y visualizaciones para construir mi portfolio técnico.
 
 ## Objetivo
 Crear demos pequeñas, limpias y visibles relacionadas con física computacional y software.
@@ -8,16 +8,10 @@ Crear demos pequeñas, limpias y visibles relacionadas con física computacional
 ## Primer entregable
 Una simulación visual sencilla publicada.
 
+## Stack previsto
+- Python
+- JavaScript
+- GitHub Pages
+
 ## Estado
-En construcción.
-
-## Ideas de proyecto
-- Oscilador armónico interactivo
-- Simulación simple de difusión de calor
-- Visualizador de red cristalina 2D
-
-## Próximos pasos
-- [ ] Elegir el primer mini proyecto
-- [ ] Crear una primera versión simple
-- [ ] Añadir capturas o demo
-- [ ] Publicar algo visible
+En construcción
