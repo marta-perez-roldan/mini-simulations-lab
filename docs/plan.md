@@ -11,3 +11,5 @@ Crear un simulador simple e interactivo de un oscilador.
 - Decidir tecnologías
 - Crear archivos base
 - Hacer primera versión funcional
+  - Variables: masa, k, amortiguamiento, frecuencia forzada
+  - Animación/Gráfica
